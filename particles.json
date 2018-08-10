@@ -27,6 +27,12 @@
         "enable": true,
         "mode":"push"
       }
+    },
+    "modes":{
+      "repulse":{
+        "distance":70,
+        "duration":0.4
+      }
     }
   }
 }
