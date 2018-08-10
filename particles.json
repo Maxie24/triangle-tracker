@@ -16,5 +16,12 @@
     "move":{
       "direction":"top"
     }
+  },
+  "interactivity":{
+    "events":{
+      "onhover":{
+        "enable":true,
+        "mode":"repulse"
+      }
   }
 }
