@@ -12,5 +12,9 @@
     },
     "size":{
       "value":6
+    },
+    "move":{
+      "direction":"top"
     }
+  }
 }
