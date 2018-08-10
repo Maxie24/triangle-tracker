@@ -9,5 +9,8 @@
       "anim":{
         "enable": true
       }
+    },
+    "size":{
+      "value":6
     }
 }
