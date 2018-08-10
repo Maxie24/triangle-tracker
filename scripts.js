@@ -1,4 +1,4 @@
-function check_triangleTracker(){
+function triangleTracker(){
 	var triangle = [];
 
 		triangle.push(parseInt(prompt("Enter the first dimension of the triangle: ")));
@@ -28,3 +28,4 @@ function check_triangleTracker(){
 					}
 			}
 }
+document.getElementById('button').addEventListener('click', triangleTracker );
